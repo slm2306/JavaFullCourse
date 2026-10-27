@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/Users/sloa/Desktop/JavaFullCourse/.metadata/.plugins/org.eclipse.jdt.core
+208209188.index
+1865797976.index
+3673958569.index
+857548951.index

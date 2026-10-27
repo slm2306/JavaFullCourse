@@ -1,0 +1,15 @@
+package com.itbulls.loaiza.operations;
+import java.util.Scanner;
+public class AreaOfTriangle {
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Ingrese el valor del lado A del triangulo: ");
+		double a = sc.nextDouble();
+		System.out.println("Ingrese el valor del lado B del triangulo: ");
+		double b = sc.nextDouble();
+		System.out.println("Ingrese el valor del lado C del triangulo: ");
+		double c = sc.nextDouble();
+	}
+
+}
